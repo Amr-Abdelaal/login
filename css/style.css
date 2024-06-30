@@ -1,0 +1,70 @@
+* {
+    font-family: "Titillium Web", sans-serif;
+}
+body
+{
+    background-color: #24353f;
+}
+.loginSystem
+{
+   width: 55%;
+   background-color: #24353f;
+    box-shadow: -5px 2px 54px -9px rgb(0, 0, 0);
+   
+}
+.title
+{
+    color: #17A2B8;
+    font-size: 2.5rem;
+}
+input
+{
+    background-color: #24353f;
+    border: solid 1px #fff;
+    color: #fff;
+}
+#loginBtn
+{
+    color: #17a2b8 ;
+    border: solid 1px #17a2b8;
+}
+.loginSystem button
+{
+    color: #17a2b8 ;
+    border: solid 1px #17a2b8;
+}
+p
+{
+    color: #fff;
+}
+p a
+{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 4px;
+}
+button:hover 
+{
+    background-color: #17A2B8 !important;
+    color: #fff !important;
+}
+p a:hover
+{
+    text-decoration: underline;
+}
+::placeholder
+{
+    color: grey;
+    font-weight: 200
+}
+.collapse ul li a
+{
+    border: solid 1px #FFC107;
+}
+.nav-bar
+{
+    box-shadow:-5px 2px 54px -9px rgb(0 0 0);;
+}
+.welcome-null {
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
